@@ -6,6 +6,22 @@ This mod is Integrated with the game stamina system. This faster movement from t
 
 By default, the movement speed is adjusted to match the heavy-weapon sprint speed found in the Definitive Edition versions of GTA III and Vice City when using the modern movement option. However, the movement speed multiplier in this mod is fully customizable, allowing you to increase or even decrease it.
 
+# Installation
+
+**III**:
+
+1. Install the Ultimate Asi Loader and Modloader in in the game's root folder
+2. Extract the file "GTA.III.Heavy.Weapons.Sprint.Mod.zip"
+3. Copy the " Heavy Weapons Sprint" folder into the "modloader" folder, which is located in your game's root directory.
+4. Done
+
+**VC**:
+
+1. Install the Ultimate Asi Loader and Modloader in in the game's root folder
+2. Extract the file "GTA.VC.Heavy.Weapons.Sprint.Mod.zip"
+3. Copy the " Heavy Weapons Sprint" folder into the "modloader" folder, which is located in your game's root directory.
+4. Done
+
 # AI disclosure
 The code of this mod was written by Claude Sonnet 5.5 and tested in-game by me.
 
